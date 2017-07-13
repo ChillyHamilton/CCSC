@@ -258,7 +258,7 @@ body {
   .masthead,
   .mastfoot,
   .cover-container {
-    width: 100%; /* Must be percentage or pixels for horizontal alignment */
+    width: 300%; /* Must be percentage or pixels for horizontal alignment */
   }
 }
 
@@ -266,6 +266,6 @@ body {
   .masthead,
   .mastfoot,
   .cover-container {
-    width: 700px;
+    width: 100%;
   }
 }
